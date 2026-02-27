@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 440 443.8">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d9e4f2;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        fill: url(#_新規パターンスウォッチ_2);
+        opacity: .5;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+    </style>
+    <pattern id="_新規パターンスウォッチ_2" data-name="新規パターンスウォッチ 2" x="0" y="0" width="10" height="10" patternTransform="translate(-7089 3763.2) rotate(33.2) scale(1.2 1.1) skewX(-13)" patternUnits="userSpaceOnUse" viewBox="0 0 10 10">
+      <g>
+        <rect class="cls-2" width="10" height="10"/>
+        <rect class="cls-1" width="10" height="10"/>
+        <rect class="cls-4" width="1" height="10"/>
+      </g>
+    </pattern>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.7.1, SVG Export Plug-In . SVG Version: 1.2.0 Build 142)  -->
+  <g>
+    <g id="_レイヤー_1" data-name="レイヤー_1">
+      <rect class="cls-3" y=".6" width="440" height="443.8"/>
+    </g>
+  </g>
+</svg>

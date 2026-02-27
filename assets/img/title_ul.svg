@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 88 3">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-dasharray: 2.9 3.9;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: url(#_新規グラデーションスウォッチ_9);
+        stroke-width: 3px;
+      }
+    </style>
+    <linearGradient id="_新規グラデーションスウォッチ_9" data-name="新規グラデーションスウォッチ 9" x1="0" y1="1.5" x2="88" y2="1.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000"/>
+      <stop offset="0" stop-color="#095bff"/>
+      <stop offset="1" stop-color="#38ffff"/>
+    </linearGradient>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.7.1, SVG Export Plug-In . SVG Version: 1.2.0 Build 142)  -->
+  <g>
+    <g id="_レイヤー_1" data-name="レイヤー_1">
+      <g id="_線_11" data-name="線_11">
+        <g>
+          <line class="cls-2" y1="1.5" x2="1.5" y2="1.5"/>
+          <line class="cls-1" x1="5.4" y1="1.5" x2="84.6" y2="1.5"/>
+          <line class="cls-2" x1="86.5" y1="1.5" x2="88" y2="1.5"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 107.1 107.1">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#_名称未設定グラデーション-2);
+      }
+
+      .cls-2 {
+        fill: url(#_名称未設定グラデーション);
+      }
+    </style>
+    <linearGradient id="_名称未設定グラデーション" data-name="名称未設定グラデーション" x1="38.7" y1="19.2" x2="37.1" y2="83.3" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000"/>
+      <stop offset="0" stop-color="#095bff"/>
+      <stop offset="1" stop-color="#38ffff"/>
+    </linearGradient>
+    <linearGradient id="_名称未設定グラデーション-2" data-name="名称未設定グラデーション" x1="85.6" y1="20.2" x2="84.1" y2="84.3" xlink:href="#_名称未設定グラデーション"/>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.7.5, SVG Export Plug-In . SVG Version: 1.2.0 Build 176)  -->
+  <g>
+    <g id="_レイヤー_1" data-name="レイヤー_1">
+      <g>
+        <path class="cls-2" d="M37.9,85c-19.2,0-33-15.3-33-33S18.7,19.1,37.9,19.1s32.9,15.3,32.9,32.9-13.8,33-32.9,33ZM37.9,34.7c-10.1,0-17.4,7.9-17.4,17.3s7.3,17.4,17.4,17.4,17.3-7.9,17.3-17.4-7.3-17.3-17.3-17.3Z"/>
+        <path class="cls-1" d="M81.6,35.3h-9.3l5-14.9h19.9v63.4h-15.6v-48.5Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

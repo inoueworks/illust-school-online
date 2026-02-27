@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_2" data-name="レイヤー 2" xmlns="http://www.w3.org/2000/svg" width="197" height="50" viewBox="0 0 197 50">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: #00b5f1;
+      }
+
+      .cls-1, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-5 {
+        fill: none;
+      }
+
+      .cls-5, .cls-6 {
+        stroke: #00b5f1;
+      }
+
+      .cls-5, .cls-6, .cls-2 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-6, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        stroke: #fff;
+      }
+
+      .cls-3 {
+        font-family: HiraginoSans-W5-83pv-RKSJ-H, 'Hiragino Sans';
+        font-size: 15px;
+      }
+    </style>
+  </defs>
+  <g id="_レイヤー_1-2" data-name="レイヤー 1">
+    <g>
+      <path class="cls-4" d="M25,49C11.77,49,1,38.23,1,25S11.77,1,25,1h147c13.23,0,24,10.77,24,24s-10.77,24-24,24H25Z"/>
+      <path class="cls-1" d="M172,2c12.68,0,23,10.32,23,23s-10.32,23-23,23H25c-12.68,0-23-10.32-23-23S12.32,2,25,2h147M172,0H25C11.19,0,0,11.19,0,25h0c0,13.81,11.19,25,25,25h147c13.81,0,25-11.19,25-25h0c0-13.81-11.19-25-25-25h0Z"/>
+    </g>
+    <polygon class="cls-6" points="58.17 37.06 19.72 37.06 28.85 10.89 67.3 10.89 58.17 37.06"/>
+    <polygon class="cls-6" points="67.59 11.19 70.46 34.55 59.04 34.55 66.71 11.72 67.59 11.19"/>
+    <polygon class="cls-1" points="26.06 19.58 63.91 19.58 67 10.89 28.85 10.89 26.06 19.58"/>
+    <polygon class="cls-2" points="37.73 13.42 34.48 13.42 37.22 7.52 40.47 7.52 37.73 13.42"/>
+    <polygon class="cls-2" points="56.62 13.42 53.37 13.42 56.11 7.52 59.36 7.52 56.62 13.42"/>
+    <line class="cls-5" x1="31.17" y1="23.41" x2="55.84" y2="23.41"/>
+    <line class="cls-5" x1="29.36" y1="27.97" x2="54.03" y2="27.97"/>
+    <line class="cls-5" x1="27.76" y1="32.54" x2="52.43" y2="32.54"/>
+    <text class="cls-3" transform="translate(84.83 29.06)"><tspan x="0" y="0">無料体験予約</tspan></text>
+  </g>
+</svg>

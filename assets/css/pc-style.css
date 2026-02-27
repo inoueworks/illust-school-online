@@ -1,0 +1,604 @@
+body {
+    font-size: 1.1rem;
+}
+
+header {
+    width: 100%;
+    position: fixed;
+    top: 0;
+    z-index: 980;
+}
+
+/* CSS Document */
+.thumbnail-wrapper .thumbnail .thumbnail-image .object-fit {
+    padding: 5px;
+}
+
+/* Instagram　ボタン全体 */
+.flowbtn9 {
+    display: inline-block;
+    font-size: 40px;
+    text-decoration: none;
+    -webkit-transition: .5s;
+    transition: .5s;
+}
+
+/* Instagram */
+.flowbtn9 .fa-instagram {
+    color: #c6529a;
+}
+
+/* ulタグの内側余白を０にする */
+ul.snsbtniti {
+    padding: 10px;
+}
+
+/* アイコン全体の位置 */
+.snsbtniti {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-flow: row wrap;
+    flex-flow: row wrap;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+}
+
+/* アイコン同士の余白 */
+.snsbtniti li {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 33%;
+    flex: 0 0 33%;
+    text-align: center !important;
+}
+
+/* アイコンにマウスを乗せた時 */
+.flowbtn9:hover {
+    -webkit-transform: translateY(-5px);
+    transform: translateY(-5px);
+}
+
+.insta_btn {
+    display: inline-block;
+    text-align: center;
+    /*中央揃え*/
+    color: #2e6ca5;
+    /*文字色*/
+    font-size: 20px;
+    /*文字サイズ*/
+    text-decoration: none;
+    /*下線消す*/
+}
+
+.insta_btn:hover {
+    /*ホバー時*/
+    color: #668ad8;
+    /*文字色*/
+    -webkit-transition: .5s;
+    transition: .5s;
+    /*ゆっくり変化*/
+}
+
+.insta_btn .insta {
+    /*アイコンの背景*/
+    position: relative;
+    /*相対配置*/
+    display: inline-block;
+    width: 50px;
+    /*幅*/
+    height: 50px;
+    /*高さ*/
+    background: linear-gradient(135deg, #427eff 0%, #f13f79 70%) no-repeat;
+    /*グラデーション①*/
+    overflow: hidden;
+    /*はみ出た部分を隠す*/
+    border-radius: 13px;
+    /*角丸に*/
+
+}
+
+.insta_btn .insta:before {
+    /*グラデーションを重ねるため*/
+    content: '';
+    position: absolute;
+    /*絶対配置*/
+    top: 23px;
+    /*ずらす*/
+    left: -18px;
+    /*ずらす*/
+    width: 60px;
+    /*グラデーションカバーの幅*/
+    height: 60px;
+    /*グラデーションカバーの高さ*/
+    background: radial-gradient(#ffdb2c 10%, rgba(255, 105, 34, 0.65) 55%, rgba(255, 88, 96, 0) 70%);
+    /*グラデーション②*/
+}
+
+.insta_btn .fa-instagram {
+    /*アイコン*/
+    color: #FFF;
+    /*白に*/
+    position: relative;
+    /*z-indexを使うため*/
+    z-index: 2;
+    /*グラデーションより前に*/
+    font-size: 35px;
+    /*アイコンサイズ*/
+    line-height: 50px;
+    /*高さと合わせる*/
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+}
+
+table tr {
+    border-bottom: solid 1px #eee;
+}
+
+
+table th,
+table td {
+    text-align: center;
+    width: 10%;
+    padding: 15px 0;
+}
+
+table td.icon {
+    background-size: 35px;
+    background-position: left 5px center;
+    background-repeat: no-repeat;
+    padding-left: 30px;
+}
+
+/* SNSボタン全体 */
+.sns-button {
+    margin: 3px;
+    padding: 0px;
+    text-align: center;
+    list-style: none;
+    overflow: hidden;
+    padding: 0;
+}
+
+.sns-button a {
+    text-decoration: none;
+}
+
+/* 各 SNS ボタンのボックス */
+.sns-button li {
+    display: inline-block;
+    margin: 5px;
+    padding: px 0px;
+    border-radius: 4px;
+    -webkit-box-shadow: 2.8px 2.8px #4c4550;
+    box-shadow: 2.8px 2.8px #4c4550;
+    width: 70px;
+    height: 70px;
+    line-hight: 70px;
+}
+
+/* アイコン */
+.sns-button i {
+    text-align: center;
+    font-size: 30px;
+    margin: 0px;
+    padding: 15px 0px 0px 0px;
+    color: #fff;
+}
+
+/* テキスト */
+.button-text {
+    display: inline-block;
+    padding: 0px 0px 0px 0px;
+    text-align: center;
+    font-size: 12px;
+    font-weight: solid;
+    color: #fff;
+}
+
+/* アイコンホバー */
+.sns-button li:hover {
+    opacity: 0.8;
+}
+
+/* ボタンの色 */
+.button_twitter {
+    background: #1da1f2;
+}
+
+.button_facebook {
+    background: #3b5998;
+}
+
+.button_line {
+    background: #6cc755;
+}
+
+.button_instagram {
+    background: #CF2E92;
+}
+
+.button_linkedin {
+    background: #0e76a8;
+}
+
+
+.teacher-img-03 {
+    position: absolute;
+    top: 1380px;
+    bottom: 0;
+    right: 0;
+    width: 40%;
+}
+
+.access-maparea {
+    margin-top: 50px;
+}
+
+.access-map-text {
+    margin-bottom: 20px
+}
+
+.char-point:before,
+.char-point:after {
+    display: block;
+    height: 100px;
+    width: 1px;
+    background: #1e87f0;
+    position: relative;
+}
+
+.char-point--02:after {
+    display: block;
+    height: 100px;
+    width: 1px;
+    background: #1e87f0;
+    position: relative;
+}
+
+/*　画面サイズが960pxからはここを読み込む　*/
+@media screen and (min-width:960px) {
+    .detail-2 {
+        margin-bottom: 150px;
+    }
+
+    .back-show-pc {
+        display: block;
+    }
+}
+
+/*　画面サイズが640pxからはここを読み込む　*/
+@media screen and (min-width:640px) {
+    .teacher-img-03 {
+        position: absolute;
+        top: 1800px;
+        bottom: 0;
+        right: 0;
+        width: auto;
+    }
+
+    .detail-2 {
+        margin-bottom: 125px;
+    }
+
+    .teacher-back-img-03 {
+        height: 650px;
+        position: absolute;
+        top: 1600px;
+        bottom: 0;
+        z-index: -1;
+        left: -60px;
+    }
+
+    .back-show-sp {
+        display: none;
+    }
+
+    .back-show-pc {
+        display: block;
+    }
+
+    #teacher {
+        margin-bottom: 245px;
+    }
+
+    .add-photo {
+        width: 100%;
+        display: flex;
+        justify-content:
+            space-between;
+        margin-bottom: 40px;
+    }
+
+    .add-photo img {
+        width: 30%
+    }
+
+    .footer-logo {
+        margin: 2em auto;
+        width: 59%;
+    }
+}
+
+/*　画面サイズが480pxからはここを読み込む　*/
+@media screen and (min-width:480px) {
+    .detail-2 {
+        margin-bottom: 30px;
+    }
+
+    .teacher-img-03 {
+        top: 1570px;
+    }
+}
+
+/*　画面サイズが320pxからはここを読み込む　*/
+@media screen and (min-width:320px) {
+    .detail-2 {
+        margin-bottom: 135px;
+    }
+
+    .teacher-img-03 {
+        top: 1805px;
+    }
+
+    .teacher-back-img-03 {
+        height: 650px;
+        position: absolute;
+        top: 1690px;
+        z-index: -1;
+        left: -35px;
+    }
+}
+
+@media screen and (max-width: 960px) {
+    .drawer-item img {
+        max-width: 11%;
+    }
+
+    .com-tit-01 {
+        font-size: 24px;
+    }
+
+    .gnav .entry a img {
+        width: 150px;
+    }
+
+    .char-sec-01:nth-of-type(2n):nth-of-type(2) .char-point:before,
+    .char-sec-01:nth-of-type(2n):nth-of-type(4) .char-point:before {
+        content: "";
+        -webkit-transform: rotate(43deg);
+        transform: rotate(43deg);
+        margin-right: 40px;
+        margin-bottom: 20px;
+        background: #1e87f0;
+    }
+
+    .char-point--02:before {
+        content: "";
+        -webkit-transform: rotate(43deg);
+        transform: rotate(43deg);
+        margin-right: 40px;
+        margin-bottom: 20px;
+        background: #1e87f0;
+    }
+}
+
+
+
+/* 580pxまでの幅の場合に適応される */
+@media screen and (max-width: 580px) {
+    .teacher-back-img-03 {
+        height: 680px;
+        top: 1575px;
+    }
+
+    #instagram {
+        padding-top: 20px;
+        display: grid;
+        overflow: hidden;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+    }
+
+    .uk-sticky-placeholder {
+        height: 0 !important;
+    }
+}
+
+
+/* Comments */
+#comments {
+    padding-top: 100px;
+    /* padding-bottom: 80px; */
+    /* border-bottom: 1px solid #e1e1e1; */
+    overflow: hidden;
+}
+
+@media screen and (max-width: 769px) {
+    #comments {
+        padding-top: 40px;
+    }
+}
+
+#comments h2 {
+    margin-bottom: 5px !important;
+}
+
+#comments h2+p {
+    font-size: 21px;
+    letter-spacing: 0.06em;
+    text-align: center;
+}
+
+#comments .comments_container {
+    display: flex;
+    gap: 30px;
+    width: 100%;
+    height: 310px;
+    margin: 0 auto;
+    margin-top: 45px;
+    padding: 0;
+    padding-top: 20px;
+    padding-left: 15%;
+    overflow-x: auto;
+    overflow-y: hidden;
+    scrollbar-width: none;
+    box-sizing: border-box;
+    zoom: 150%;
+}
+
+@media (max-width: 769px) {
+    #comments .comments_container {
+        display: flex;
+        gap: 30px;
+        width: 100%;
+        height: 330px;
+        margin: 0 auto;
+        margin-top: 45px;
+        padding: 0;
+        padding-top: 20px;
+        padding-left: 15%;
+        overflow-x: auto;
+        overflow-y: hidden;
+        scrollbar-width: none;
+        box-sizing: border-box;
+        zoom: 100%;
+    }
+
+    #comments h2+p {
+        font-size: inherit;
+        letter-spacing: 0.06em;
+        text-align: center;
+    }
+}
+
+#comments .comments_container::-webkit-scrollbar {
+    display: none;
+}
+
+@media (max-width: 1099px) {
+    #comments .comments_container {
+        padding-left: 5vw;
+    }
+}
+
+#comments .comments_list {
+    width: 325px;
+    height: 290px;
+    background: #ffffff;
+    border-radius: 12px;
+    position: relative;
+    list-style: none;
+    padding: 40px 20px 30px 28px;
+    flex-shrink: 0;
+    box-sizing: border-box;
+    background-image: url(../img/comments_bg.png);
+    background-size: cover;
+}
+
+@media (max-width: 769px) {
+    #comments .comments_list {
+        width: 350px;
+        height: 310px;
+    }
+}
+
+#comments .comments_list:last-of-type {
+    margin-right: calc((100vw - 1100px) / 2);
+    box-sizing: border-box;
+}
+
+@media (max-width: 1099px) {
+    #comments .comments_list:last-of-type {
+        margin-right: 5vw;
+    }
+}
+
+#comments .comments_list>div {
+    position: absolute;
+    top: -5px;
+    left: 0;
+}
+
+#comments .comments_list>div>div {
+    width: 75px;
+    height: 75px;
+    border-radius: 100px;
+    background-color: #004aa8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: -15px;
+    left: -15px;
+}
+
+#comments .comments_list>div p {
+    width: 190px;
+    height: 35px;
+    border-radius: 15px;
+    line-height: 35px;
+    font-size: 15px;
+    font-weight: bold;
+    color: #ffffff;
+    text-align: right;
+    letter-spacing: 0.04em;
+}
+
+/* #comments .comments_list:nth-of-type(2n-1) > div p {
+  background-image: linear-gradient(45deg, #095bff 0%, #38ffff 100%);
+  padding-right: 30px;
+  box-sizing: border-box;
+} */
+
+.comments__text--01 {
+    background-image: linear-gradient(45deg, #095bff 0%, #38ffff 100%);
+    padding-right: 30px;
+    box-sizing: border-box;
+}
+
+.comments__text--02 {
+    background-color: #004aa8;
+    padding-right: 14px;
+    box-sizing: border-box;
+}
+
+/* #comments .comments_list:nth-of-type(2n) > div p {
+  background-color: #004aa8;
+  padding-right: 14px;
+  box-sizing: border-box;
+} */
+
+#comments .comments_title {
+    font-size: 18px;
+    font-weight: bold;
+    color: #3e3a39;
+    line-height: 1.375;
+    margin-bottom: 12px;
+    letter-spacing: 0.01em;
+    padding-left: 28px;
+    box-sizing: border-box;
+}
+
+@media (max-width: 769px) {
+    #comments .comments_text {
+        font-size: 16px;
+    }
+}
+
+#comments .comments_text {
+    font-size: 13px;
+    color: #3e3a39;
+    line-height: 1.75;
+    letter-spacing: 0.04em;
+}
+
+@media (max-width: 769px) {
+    #comments .comments_text {
+        font-size: 16px;
+        line-height: 1.4;
+    }
+}

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_2" data-name="レイヤー 2" xmlns="http://www.w3.org/2000/svg" width="177" height="58.57" viewBox="0 0 177 58.57">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: .03em;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        fill: #4cc764;
+      }
+
+      .cls-2, .cls-5 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-6 {
+        font-size: 12px;
+      }
+
+      .cls-6, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-6, .cls-4 {
+        font-family: HiraginoSans-W5-83pv-RKSJ-H, 'Hiragino Sans';
+      }
+
+      .cls-4 {
+        font-size: 18px;
+      }
+    </style>
+  </defs>
+  <g id="_レイヤー_1-2" data-name="レイヤー 1">
+    <g>
+      <path class="cls-5" d="M24.83,9.57h127.34c13.15,0,23.83,10.68,23.83,23.83v.34c0,13.15-10.68,23.83-23.83,23.83H24.83c-13.15,0-23.83-10.68-23.83-23.83v-.34c0-13.15,10.68-23.83,23.83-23.83Z"/>
+      <path class="cls-2" d="M152.17,10.57c12.59,0,22.83,10.24,22.83,22.83v.34c0,12.59-10.24,22.83-22.83,22.83H24.83c-12.59,0-22.83-10.24-22.83-22.83v-.34c0-12.59,10.24-22.83,22.83-22.83h127.34M152.17,8.57H24.83C11.12,8.57,0,19.68,0,33.39v.34c0,13.71,11.12,24.83,24.83,24.83h127.34c13.71,0,24.83-11.12,24.83-24.83v-.34c0-13.71-11.12-24.83-24.83-24.83h0Z"/>
+    </g>
+    <text class="cls-4" transform="translate(48.91 42.27)"><tspan x="0" y="0">LIN</tspan><tspan class="cls-1" x="30.62" y="0">E</tspan><tspan x="43.18" y="0">相談</tspan></text>
+    <rect class="cls-3" x="28.6" y=".5" width="120" height="21" rx="10.5" ry="10.5"/>
+    <text class="cls-6" transform="translate(46.93 15.27)"><tspan x="0" y="0">まずはお気軽に</tspan></text>
+  </g>
+</svg>
