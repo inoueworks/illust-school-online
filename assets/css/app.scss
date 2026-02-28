@@ -392,9 +392,6 @@ $xxl: "only screen and (max-width:1399px)";
             padding: 80px 0 0;
             background: #eff8fb;
 
-            @media #{$sm} {
-                padding: 40px 0;
-            }
         }
 
         &__left {
@@ -450,7 +447,7 @@ $xxl: "only screen and (max-width:1399px)";
 
 .student-works {
     &__sec {
-        padding: 100px 0 80px;
+        padding: 80px 0;
 
         @media #{$sm} {
             padding: 40px 0;
@@ -734,10 +731,6 @@ $xxl: "only screen and (max-width:1399px)";
 }
 
 .calendar {
-
-    @media #{$sm} {
-        padding-bottom: 50px;
-    }
 
     &-online {
 

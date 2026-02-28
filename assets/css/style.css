@@ -979,9 +979,9 @@ footer {
 
 @media(min-width: 640px) {
     #characteristic {
-        padding-top: 100px;
+        /* padding-top: 100px;
         padding-bottom: 50px;
-        border-bottom: 1px solid #e1e1e1;
+        border-bottom: 1px solid #e1e1e1; */
     }
 }
 

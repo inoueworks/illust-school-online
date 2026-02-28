@@ -326,11 +326,6 @@
     padding: 80px 0 0;
     background: #eff8fb;
 }
-@media only screen and (max-width:767px) {
-    .trial-guidance__sec {
-        padding: 40px 0;
-    }
-}
 .trial-guidance__left {
     width: 373px;
 }
@@ -395,7 +390,7 @@
 }
 
 .student-works__sec {
-    padding: 100px 0 80px;
+    padding: 80px 0;
 }
 @media only screen and (max-width:767px) {
     .student-works__sec {
@@ -710,11 +705,6 @@
     }
 }
 
-@media only screen and (max-width:767px) {
-    .calendar {
-        padding-bottom: 50px;
-    }
-}
 .calendar-online img {
     width: 100%;
 }
